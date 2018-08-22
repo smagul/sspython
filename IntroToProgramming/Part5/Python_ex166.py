@@ -1,0 +1,1 @@
+print("Abay {}".format("Qunanbayev"))
