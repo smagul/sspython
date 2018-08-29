@@ -4,3 +4,5 @@
 4. https://github.com/google/styleguide/blob/gh-pages/pyguide.md
 5. https://theselftaughtprogrammer.io/filepaths
 6. https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming
+7. https://whatis.techtarget.com/definition/abstraction
+8. https://stackoverflow.com/questions/1031273/what-is-polymorphism-what-is-it-for-and-how-is-it-used
