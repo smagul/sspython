@@ -1,0 +1,1 @@
+echo Two tro. | grep -i t[wr]o

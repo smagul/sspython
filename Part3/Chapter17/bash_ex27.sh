@@ -1,0 +1,1 @@
+grep never.$ zen.txt

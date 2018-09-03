@@ -10,3 +10,4 @@
 10. https://aws.amazon.com/ru/getting-started/
 11. http://www.tutorialspoint.com/execute_bash_online.php
 12. https://habr.com/post/47163/
+13. https://en.wikipedia.org/wiki/Regular_expression
