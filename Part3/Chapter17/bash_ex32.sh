@@ -1,0 +1,1 @@
+echo __hello__good__bye__! | grep -o __.*__

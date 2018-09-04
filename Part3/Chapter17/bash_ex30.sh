@@ -1,0 +1,1 @@
+echo hi hit this. | grep -o hi*

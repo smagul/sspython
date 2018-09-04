@@ -11,3 +11,4 @@
 11. http://www.tutorialspoint.com/execute_bash_online.php
 12. https://habr.com/post/47163/
 13. https://en.wikipedia.org/wiki/Regular_expression
+14. http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_04_01.html

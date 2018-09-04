@@ -1,0 +1,1 @@
+echo __hello__everybody | grep -o __.*__
