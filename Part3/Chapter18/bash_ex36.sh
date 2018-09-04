@@ -1,0 +1,1 @@
+C:\laragon\bin\python\python-3.6.6\Scripts\pip3.exe install Flask==1.0.2
