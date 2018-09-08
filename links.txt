@@ -16,3 +16,5 @@
 16. https://pypi.org/
 17. http://flask.pocoo.org/docs/1.0/tutorial/
 18. https://docs.python-guide.org/
+19. http://interactivepython.org/runestone/static/pythonds/Recursion/TheThreeLawsofRecursion.html
+20. https://leetcode.com/
